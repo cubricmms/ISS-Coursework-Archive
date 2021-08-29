@@ -1,0 +1,28 @@
+
+city 0
++--------------------+
+|city                |
++--------------------+
+|Geylang             |
+|Singapour           |
+|Singapore           |
+|Pasir Ris Grove     |
+|新加坡              |
+|*                   |
+|emerald hill road   |
+|null                |
+|Bedok               |
+|Opera Estate        |
+|The Shore Residences|
+|武吉巴督            |
+|Singpapore          |
+|Changi              |
+|Holland Village     |
+|Singapura           |
+|67 Sophia road      |
+|Woodlands           |
+|Jurong              |
+|SINGAPORE           |
++--------------------+
+only showing top 20 rows
+

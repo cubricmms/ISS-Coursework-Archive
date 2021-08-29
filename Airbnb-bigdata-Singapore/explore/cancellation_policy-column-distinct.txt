@@ -1,0 +1,14 @@
+
+cancellation_policy 48
++---------------------------+
+|cancellation_policy        |
++---------------------------+
+|flexible                   |
+|super_strict_60            |
+|strict                     |
+|super_strict_30            |
+|moderate                   |
+|strict_14_with_grace_period|
+|t                          |
++---------------------------+
+

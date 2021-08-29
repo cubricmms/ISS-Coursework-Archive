@@ -1,0 +1,28 @@
+
+smart_location 9
++-------------------------------+
+|smart_location                 |
++-------------------------------+
+|The Shore Residences, Singapore|
+|Whampoa, Singapore             |
+|实龙岗, Singapore              |
+|Bedok, Singapore               |
+|Singapore                      |
+|兀兰, Singapore                |
+|Geylang  East, Singapore       |
+|Singpapore , Singapore         |
+|Novena, Singapore              |
+|Holland Village, Singapore     |
+|Geylang, Singapore             |
+|Singapore , Singapore          |
+|新加坡, Singapore              |
+|Little India, Singapore        |
+|Woodlands, Singapore           |
+|Pasir Panjang Hill, Singapore  |
+|n/a, Singapore                 |
+|North of Singapore, Singapore  |
+|Jurong, Singapore              |
+|Sengkang, Singapore            |
++-------------------------------+
+only showing top 20 rows
+

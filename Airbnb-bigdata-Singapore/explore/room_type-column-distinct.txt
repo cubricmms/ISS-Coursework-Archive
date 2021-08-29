@@ -1,0 +1,11 @@
+
+room_type 2
++---------------+
+|room_type      |
++---------------+
+|Shared room    |
+|f              |
+|Entire home/apt|
+|Private room   |
++---------------+
+

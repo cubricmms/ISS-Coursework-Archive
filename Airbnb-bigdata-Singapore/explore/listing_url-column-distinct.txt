@@ -1,0 +1,28 @@
+
+listing_url 12
++-------------------------------------+
+|listing_url                          |
++-------------------------------------+
+|https://www.airbnb.com/rooms/7162659 |
+|https://www.airbnb.com/rooms/8975531 |
+|https://www.airbnb.com/rooms/11465411|
+|https://www.airbnb.com/rooms/12299369|
+|https://www.airbnb.com/rooms/12940550|
+|https://www.airbnb.com/rooms/13564679|
+|https://www.airbnb.com/rooms/14600122|
+|https://www.airbnb.com/rooms/16482875|
+|https://www.airbnb.com/rooms/17615250|
+|https://www.airbnb.com/rooms/17798438|
+|https://www.airbnb.com/rooms/20481470|
+|https://www.airbnb.com/rooms/20816680|
+|https://www.airbnb.com/rooms/21901599|
+|https://www.airbnb.com/rooms/21964337|
+|https://www.airbnb.com/rooms/22267147|
+|https://www.airbnb.com/rooms/24979153|
+|https://www.airbnb.com/rooms/26189993|
+|https://www.airbnb.com/rooms/26370803|
+|https://www.airbnb.com/rooms/27003781|
+|https://www.airbnb.com/rooms/27041512|
++-------------------------------------+
+only showing top 20 rows
+

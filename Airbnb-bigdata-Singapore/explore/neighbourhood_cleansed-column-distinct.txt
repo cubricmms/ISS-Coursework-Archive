@@ -1,0 +1,28 @@
+
+neighbourhood_cleansed 56
++-----------------------+
+|neighbourhood_cleansed |
++-----------------------+
+|Geylang                |
+|Tuas                   |
+|Central Water Catchment|
+|Jurong West            |
+|Sungei Kadut           |
+|Rochor                 |
+|Orchard                |
+|Bukit Merah            |
+|Bedok                  |
+|Western Water Catchment|
+|Tanglin                |
+|Newton                 |
+|Woodlands              |
+|Lim Chu Kang           |
+|Bukit Timah            |
+|River Valley           |
+|Queenstown             |
+|Marina South           |
+|Serangoon              |
+|Punggol                |
++-----------------------+
+only showing top 20 rows
+

@@ -1,0 +1,28 @@
+
+state 3
++---------------------------------------+
+|state                                  |
++---------------------------------------+
+|Geylang                                |
+|Sembawang Spring Estate                |
+|Singapour                              |
+|Singapòre                              |
+|Singapore                              |
+|boon keng                              |
+|Beijing                                |
+|Chinatown, Outram                      |
+|Singpaore                              |
+|Link                                   |
+|新加坡                                 |
+|*                                      |
+|NA                                     |
+|grove                                  |
+|0                                      |
+|Please select region, state or province|
+|null                                   |
+|Tiong bahru                            |
+|207557                                 |
+|Bedok                                  |
++---------------------------------------+
+only showing top 20 rows
+

@@ -1,0 +1,13 @@
+
+host_response_time 390
++------------------+
+|host_response_time|
++------------------+
+|a few days or more|
+|within a day      |
+|SG                |
+|within a few hours|
+|N/A               |
+|within an hour    |
++------------------+
+

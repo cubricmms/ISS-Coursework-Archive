@@ -1,0 +1,28 @@
+
+property_type 9
++------------------+
+|property_type     |
++------------------+
+|Apartment         |
+|Townhouse         |
+|Farm stay         |
+|Guest suite       |
+|Boutique hotel    |
+|Castle            |
+|Loft              |
+|Guesthouse        |
+|Hostel            |
+|Villa             |
+|Campsite          |
+|Aparthotel        |
+|Other             |
+|Serviced apartment|
+|103.94372         |
+|Hotel             |
+|Condominium       |
+|House             |
+|Chalet            |
+|Bus               |
++------------------+
+only showing top 20 rows
+

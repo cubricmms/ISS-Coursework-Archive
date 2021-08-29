@@ -1,0 +1,10 @@
+
+require_guest_phone_verification 108
++--------------------------------+
+|require_guest_phone_verification|
++--------------------------------+
+|flexible                        |
+|f                               |
+|t                               |
++--------------------------------+
+

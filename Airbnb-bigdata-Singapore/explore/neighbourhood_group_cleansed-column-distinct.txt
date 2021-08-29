@@ -1,0 +1,13 @@
+
+neighbourhood_group_cleansed 9
++----------------------------+
+|neighbourhood_group_cleansed|
++----------------------------+
+|West Region                 |
+|Central Region              |
+|North Region                |
+|East Region                 |
+|Pasir Ris                   |
+|North-East Region           |
++----------------------------+
+

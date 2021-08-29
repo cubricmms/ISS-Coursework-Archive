@@ -1,0 +1,28 @@
+
+host_neighbourhood 86
++------------------+
+|host_neighbourhood|
++------------------+
+|Geylang           |
+|Marina Bay        |
+|Keppel Bay        |
+|Bugis/Kampong Glam|
+|Jurong West       |
+|Waikiki           |
+|Suan Luang        |
+|Sungei Kadut      |
+|Orchard           |
+|Rochor            |
+|Mong Kok          |
+|Bukit Merah       |
+|null              |
+|Bedok             |
+|Sentosa           |
+|Tanglin           |
+|Dunbar-Southlands |
+|Arab Street       |
+|East Village      |
+|Mount Faber       |
++------------------+
+only showing top 20 rows
+

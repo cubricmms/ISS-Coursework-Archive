@@ -1,0 +1,28 @@
+
+host_location 1304
++---------------------------------------------+
+|host_location                                |
++---------------------------------------------+
+|Vancouver, British Columbia, Canada          |
+|Bukit timah, Singapore                       |
+|Geylang                                      |
+|Uttar Pradesh, India                         |
+|Meguro, Tokyo, Japan                         |
+|Thailand                                     |
+|Los Angeles, California, United States       |
+|Geneva, Geneva, Switzerland                  |
+|101 Cashew Heights Singapore                 |
+|Sweden                                       |
+|NL                                           |
+|Singapour                                    |
+|16 Cantonment Close, #24-45, Singapore 080016|
+|PL                                           |
+|Singapore                                    |
+|Malaysia                                     |
+|Parrish, Florida, United States              |
+|Yokohama, Kanagawa Prefecture, Japan         |
+|Dubai, Dubai, United Arab Emirates           |
+|New York, New York, United States            |
++---------------------------------------------+
+only showing top 20 rows
+

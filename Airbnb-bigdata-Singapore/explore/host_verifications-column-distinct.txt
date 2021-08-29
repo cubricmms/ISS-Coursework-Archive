@@ -1,0 +1,28 @@
+
+host_verifications 16
++----------------------------------------------------------------------------------------------------------------------------------+
+|host_verifications                                                                                                                |
++----------------------------------------------------------------------------------------------------------------------------------+
+|['email', 'facebook', 'reviews', 'jumio', 'offline_government_id', 'selfie', 'government_id', 'identity_manual', 'work_email']    |
+|['email', 'phone', 'google', 'reviews', 'offline_government_id', 'government_id']                                                 |
+|['email', 'phone', 'google', 'offline_government_id', 'selfie', 'government_id', 'identity_manual']                               |
+|['email', 'phone', 'reviews', 'jumio', 'offline_government_id', 'kba', 'selfie', 'government_id', 'identity_manual', 'work_email']|
+|['email', 'phone', 'facebook', 'google']                                                                                          |
+|['email', 'phone', 'reviews', 'kba', 'work_email']                                                                                |
+|['email', 'phone', 'reviews', 'selfie', 'zhima_selfie']                                                                           |
+|['phone', 'reviews', 'offline_government_id', 'government_id']                                                                    |
+|['email', 'phone', 'google', 'reviews', 'jumio', 'government_id']                                                                 |
+|['email', 'phone', 'manual_online', 'reviews', 'manual_offline']                                                                  |
+|['email', 'phone', 'reviews', 'offline_government_id', 'selfie', 'government_id', 'work_email']                                   |
+|['email', 'phone', 'reviews', 'manual_offline', 'jumio', 'offline_government_id', 'government_id']                                |
+|['email', 'phone', 'facebook', 'reviews', 'manual_offline', 'work_email']                                                         |
+|['email', 'phone', 'jumio', 'offline_government_id', 'government_id']                                                             |
+|['email', 'phone', 'jumio', 'government_id']                                                                                      |
+|['email', 'phone', 'google', 'reviews', 'jumio', 'government_id', 'work_email']                                                   |
+|['email', 'phone', 'facebook', 'reviews', 'jumio', 'government_id', 'work_email']                                                 |
+|['email', 'phone', 'reviews', 'weibo', 'jumio', 'government_id', 'sesame', 'sesame_offline']                                      |
+|['phone', 'reviews', 'jumio', 'offline_government_id', 'government_id']                                                           |
+|['email', 'phone', 'reviews', 'jumio', 'work_email']                                                                              |
++----------------------------------------------------------------------------------------------------------------------------------+
+only showing top 20 rows
+

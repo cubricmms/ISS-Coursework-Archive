@@ -1,0 +1,28 @@
+
+street 2
++---------------------------------------------------+
+|street                                             |
++---------------------------------------------------+
+|Kallang , Singapore, Singapore                     |
+|兀兰, 新加坡, Singapore                            |
+|Opera Estate, Bedok / Kembangan / Siglap, Singapore|
+|Singapore, Punggol, Singapore                      |
+|Singapore, Kim keat, Singapore                     |
+|Whampoa, 新加坡, Singapore                         |
+|Bedok, Singapore                                   |
+|Singapore, 新加坡, Singapore                       |
+|Singapore, 426151, Singapore                       |
+|Singapore, Geylang, Singapore                      |
+|新加坡, Koven, Singapore                           |
+|Singapore, Seoul, Singapore                        |
+|Singapore, Sembawang Spring Estate, Singapore      |
+|Singapore, Jurong west, Singapore                  |
+|Singapore, Johor, Singapore                        |
+|Singapore, 207557, Singapore                       |
+|Singapore, Sg, Singapore                           |
+|West Coast, 新加坡, Singapore                      |
+|Singapore, Singpore, Singapore                     |
+|Singapore , Singapore                              |
++---------------------------------------------------+
+only showing top 20 rows
+

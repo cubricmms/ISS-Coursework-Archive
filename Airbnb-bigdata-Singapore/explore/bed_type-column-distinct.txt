@@ -1,0 +1,13 @@
+
+bed_type 2
++-------------+
+|bed_type     |
++-------------+
+|Airbed       |
+|Futon        |
+|Pull-out Sofa|
+|Couch        |
+|1            |
+|Real Bed     |
++-------------+
+
